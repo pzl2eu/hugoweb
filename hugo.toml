@@ -2,18 +2,3 @@ baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'Mr. Luo'
 theme = 'ananke'
-[services.disqus]
-  shortname = 'YOURSHORTNAME'
-[params]
-  commentoEnable = true
-[params]
-  commentoEnable = true
-  github = "https://github.com/pzl2eu"
-  youtube = "https://www.youtube.com/@cnende"
-
-[ananke.social.follow]
-new_window_icon = false
-networks = [
-  "github",
-  "youtube",
-]
